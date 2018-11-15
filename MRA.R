@@ -1,4 +1,4 @@
-setwd('C:/GURUNG/GEOG639/PROJECT/')
+setwd('C:/GURUNG/')
 
 # Load Libraries
 # --------------
